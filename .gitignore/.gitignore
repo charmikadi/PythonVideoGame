@@ -1,7 +1,3 @@
-# Name: Charmi Kadi
-# Date: June. 21, 2021
-# Course Code: ICS3U1-01
-# Description: Summative environmental themed python game.
 
 # Import modules 
 import pygame, random, math, sys
